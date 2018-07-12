@@ -1,6 +1,6 @@
 # ps2EXE-squared
 A wrapper for https://gallery.technet.microsoft.com/scriptcenter/PS2EXE-GUI-Convert-e7cb69d5 - make your PowerShell scripts into executables!
-(https://kek.gg/i/6yMvhF.png)
+![PowerShell-To-EXE-Squared LOGO!](https://kek.gg/i/6yMvhF.png)
 ![PowerShell-To-EXE-Squared!](https://kek.gg/i/5tmHDL.png)
 
 ## Requirements
