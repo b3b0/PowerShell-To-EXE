@@ -20,7 +20,7 @@ A wrapper for https://gallery.technet.microsoft.com/scriptcenter/PS2EXE-GUI-Conv
 9. Notice the "**No Console**" radio button; choose whether or not to make all output from this compiled .exe send to a terminal (not checked) or to a graphical windows form (checked)
 10. Click "**Compile**"
 11. Click "**OK**" on window that infroms you of your command
-12. The process si complete when a window pops up, "**Done!**"
+12. The process is complete when a window pops up, "**Done!**"
 
 ## Etc
 Feel free to contribute, fork or bork it!
