@@ -13,7 +13,7 @@ if( -not (Test-Path $iconfold -PathType Container))
 $Form                            = New-Object system.Windows.Forms.Form
 $Form.Icon                       = $iconloc
 $Form.ClientSize                 = '492,280'
-$Form.text                       = "PS2EXE GUI^2"
+$Form.text                       = "Powershell-To-EXE"
 $Form.TopMost                    = $false
 
 $outbox                          = New-Object system.Windows.Forms.TextBox
